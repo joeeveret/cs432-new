@@ -16,6 +16,23 @@
 
 #pragma once
 
-// you may need to put something here...
+class Control {
+public:
+
+    // return control value
+    Control()
+
+    // return boolean access control value
+    void accessControl()
+
+    // return boolean subject control value
+    void subjectControl()
+
+    // return string security condition
+    void securityConditions()
+
+    // return boolean value representing accessibility
+    void integration()
+};
 
 #endif //UNTITLED_CONTROL_H

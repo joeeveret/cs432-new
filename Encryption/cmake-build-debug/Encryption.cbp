@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Encryption"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Encryption">
+				<Option output="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Encryption" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 Encryption"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Encryption/fast">
+				<Option output="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Encryption" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 Encryption/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/kylegardner/CLionProjects/Encryption/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher01.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher02.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher03.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher04.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher05.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher06.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/cipher07.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/example.h">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/ui.cpp">
+			<Option target="Encryption"/>
+		</Unit>
+		<Unit filename="/Users/kylegardner/CLionProjects/Encryption/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
